@@ -1,6 +1,6 @@
 <template>
     <div>
-        這是管理者佈局
+        這是登入佈局
     </div>
 </template>
 
